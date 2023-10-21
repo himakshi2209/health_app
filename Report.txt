@@ -1,0 +1,38 @@
+
+Username : ananya
+Firstname : Ananya
+Surname : Agarwal
+Email Address : ananya.agarwal2014@gmail.com
+Age (in yrs) : 17
+Weight (in kg) : 45
+Height (in cm) : 154
+Gender : Female
+BMI : 18.97
+
+Food Items Consumed   ---   Quantity   ---   Servings   ---   Calories per Serving                                                                                                                                                                                                                          
+Coffee   ---   1 cup   ---   1   ---   70                                                                                                                                                                                                                                                                   
+Chapatti   ---   1 medium   ---   3   ---   80                                                                                                                                                                                                                                                              
+Paneer   ---   60 gms   ---   2   ---   150                                                                                                                                                                                                                                                                 
+Total No of Calories Consumed Today = 610                                                                                                                                                                                                                                                                   
+
+
+Deficiency     Probability
+niacin         Low
+pantothenic_acidLow
+zinc           Low
+
+
+Foods You Need To Consume More - 
+meat
+poultry
+fish
+whole-grain breads
+cereals
+egg yolk
+liver
+oysters and other seafood
+legumes
+yeast
+vegetables
+
+

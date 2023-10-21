@@ -1,0 +1,3 @@
+Deficiency     Probability
+protein        Low
+vitamin_k      Low

@@ -1,0 +1,5 @@
+Food Items Consumed   ---   Quantity   ---   Servings   ---   Calories per Serving
+Coffee   ---   1 cup   ---   1   ---   70
+Banana   ---   1/2 medium   ---   1   ---   55
+Potato   ---   1 medium   ---   3   ---   80
+Total No of Calories Consumed Today = 365
